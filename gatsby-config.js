@@ -6,9 +6,9 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `@frransier/gatsby-theme-example`,
+      resolve: `@frransier/gatsby-theme-123`,
       options: {
-        rssFeed: `https://rss.podplaystudio.com/1406.xml`,
+        rssFeed: `https://rss.acast.com/isabella-soker-sheila`,
       },
     },
   ],
